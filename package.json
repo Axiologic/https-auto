@@ -1,0 +1,48 @@
+{
+  "name": "https-auto",
+  "description": "https with auto configuration",
+  "version": "0.1.0",
+  "homepage": "https://github.com/salboaie/https_auto",
+  "author": {
+    "name": "Alboaie Sinica",
+    "email": "salboaie@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Alboaie Sinica",
+      "email": "salboaie@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salboaie/https_auto.git"
+  },
+  "bugs": {
+    "email": "salboaie@gmail.com",
+    "url": "https://github.com/salboaie/https_auto/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "./lib/AutoBootHttps.js",
+  "licenses": [
+    {
+      "type": "LGPL",
+      "url": "http://www.gnu.org/licenses/lgpl.html"
+    }
+  ],
+  "_id": "https-auto@0.1.0",
+  "dependencies" : {
+  },
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.12",
+  "_nodeVersion": "v0.10.0",
+  "_defaultsLoaded": true,
+  "dist": {
+    
+  }
+}
