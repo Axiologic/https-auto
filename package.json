@@ -1,7 +1,8 @@
 {
   "name": "https-auto",
   "description": "https with auto configuration",
-  "version": "0.6.0",
+  "version": "0.6.2",
+  "_id": "https-auto@0.6.2",
   "homepage": "https://github.com/salboaie/https_auto",
   "author": {
     "name": "Alboaie Sinica",
@@ -34,7 +35,7 @@
       "url": "http://www.gnu.org/licenses/lgpl.html"
     }
   ],
-  "_id": "https-auto@0.6.0",
+
   "dependencies" : {
     "adm-zip": ">=0.4.7"
   },
